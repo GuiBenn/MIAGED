@@ -1,0 +1,5 @@
+0 Pantalon
+1 Chaussures
+2 Chapeau
+3 Robe
+4 T-Shirt
